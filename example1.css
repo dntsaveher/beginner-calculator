@@ -36,24 +36,28 @@ marquee {
 }
 
 
-  .button {
-    background-color: blue;
-    border: 0;
+
+
+  .shoebutt {
     color: black;
-    padding: 3px;
+    border: none;
     cursor: pointer;
-    display: inline-block;
+    font-size: 12px;
 
 
   }
 
-.box {
-    border: solid;
-    background: yellow;
-    width: 200px;
-    padding-left: 20px;
-    padding-bottom: 50px;
+  .shoesize{
     
+    padding: 0px;
+    display: inline-block;
+
+}
+
+  .shoesize1{
+    border: solid;
+    width: 150px;
+    height: 100px;
   }
 
   
@@ -105,18 +109,18 @@ marquee {
 }
 
 .items {
-border: solid;
-background-color: green;
+
+
 width: 50px;
 height: 50px;
 display: inline-block;
-margin: 60px;
+margin: 50px;
 
 }
 
 .wrapper {
 border: solid;
-height: 500px;
-width: 500px;
+height: 600px;
+width: 600px;
 margin: 0 auto;
 }
